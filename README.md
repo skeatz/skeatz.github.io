@@ -11,4 +11,9 @@
 - [FabPDI Programmer](https://skeatz.github.io/FabPDI/)
 - [FabFTDI](https://skeatz.github.io/FabFTDI)
 - [mods](https://skeatz.github.io/mods-sc/index.html)
-- [mods community](https://fabfoundation.github.io/mods/)
+- [mods community](http://modsproject.org/)
+
+**Machine Building Stuff**
+- [Clank-LZ (3D printed CNC)](https://gitlab.cba.mit.edu/jakeread/clank-lz)
+- [Barcelona (6-pack CNC)](https://gitlab.com/fablabbcn-projects/cnc-machines/six-pack-cnc)
+- [Fab NEO](https://fab.cba.mit.edu/classes/865.21/people/rahul/)
