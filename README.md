@@ -17,3 +17,4 @@
 - [Clank-LZ (3D printed CNC)](https://gitlab.cba.mit.edu/jakeread/clank-lz)
 - [Barcelona (6-pack CNC)](https://gitlab.com/fablabbcn-projects/cnc-machines/six-pack-cnc)
 - [Fab NEO](https://fab.cba.mit.edu/classes/865.21/people/rahul/)
+- [Fabricatable Machines](https://github.com/fellesverkstedet/fabricatable-machines/wiki)
