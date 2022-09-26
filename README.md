@@ -12,7 +12,7 @@
 **Fab Academy Stuff**
 - [FabPDI Programmer](https://skeatz.github.io/FabPDI/)
 - [FabFTDI](https://skeatz.github.io/FabFTDI)
-- [mods](https://skeatz.github.io/mods-sc/index.html)
+- [mods](https://skeatz.github.io/mods/index.html)
 - [mods community](http://modsproject.org/)
 
 **Machine Building Stuff**
