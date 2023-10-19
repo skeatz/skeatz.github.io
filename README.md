@@ -1,6 +1,7 @@
 # skeatz.github.io
 **Course Links**
-- [Digital Fabrication & Prototyping Fundamentals (SC, AY2023S2 onwards)](https://skeatz.github.io/ep1000digfab/)
+- [Digital Fabrication & Prototyping Fundamentals (RD, AY2023S2 onwards)](https://skeatz.github.io/ep1000digfab/)
+- [Digital Fabrication & Prototyping Fundamentals (AY2023S2 onwards)](https://skeatz.github.io/ep1000DigitalFab/)
 - [Digital Fabrication & Prototyping Fundamentals (RD)](https://rdorville.github.io/ep1000digfab)
 - [Digital Fabrication & Prototyping Fundamentals (SC, AY2019S2 - AY2022S1)](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/)
 - [Further Digital Fabrication & Prototyping](https://skeatz.github.io/Further-DF-and-Prototyping/)
