@@ -5,6 +5,7 @@
 - [Digital Fabrication & Prototyping Fundamentals (RD)](https://rdorville.github.io/ep1000digfab)
 - [Digital Fabrication & Prototyping Fundamentals (SC, AY2019S2 - AY2022S1)](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/)
 - [Further Digital Fabrication & Prototyping](https://skeatz.github.io/Further-DF-and-Prototyping/)
+- [Design & Make Cool Gadgets](https://skeatz.github.io/coolgadgets/)
 - [Computer Aided Design & Digital Fabrication](https://skeatz.github.io/cad-df/)
 - [EA Workshop (Mar 29-30, 2021)](https://skeatz.github.io/EA-Workshops-CAD/)
 - [Introduction to Machine Embroidery (Digitizing)](https://skeatz.github.io/machine-embroidery-digitizing/)
